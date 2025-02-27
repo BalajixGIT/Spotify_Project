@@ -25,7 +25,8 @@ Business Impact of Data Analysis
 ## How This Helps Spotify & Record Labels
 1. Optimized playlist curation by identifying high-engagement tracks.
 2. Data-driven marketing decisions to boost artist visibility and track promotions.
-3. Competitive insights to analyze and improve streaming performance.✅ Predictive analytics for identifying potential hit songs based on past performance.
+3. Competitive insights to analyze and improve streaming performance.
+4. Predictive analytics for identifying potential hit songs based on past performance.
 
 ## Project Workflow
 1. Data Exploration (Using SQL)
